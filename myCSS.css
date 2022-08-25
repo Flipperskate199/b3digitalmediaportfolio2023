@@ -4,11 +4,11 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #222222;
+	background: #D15B00;
 }
 .container {
 	width: 960px;
-	margin: 0 auto;
+	margin: 0 auto; 
 }
 .header {
 	background: #AAAAAA;
